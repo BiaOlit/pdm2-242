@@ -1,0 +1,10 @@
+name: main
+dependencies:
+  flutter:
+    sdk: flutter
+  sqflite: ^2.0.0+4
+  sqlite3: ^2.0.0
+  path: ^1.8.0
+
+environment:
+  sdk: '^3.5.0'
