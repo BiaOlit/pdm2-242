@@ -1,3 +1,5 @@
+// MAIN.DART
+
 
 import 'package:flutter/material.dart';
 import 'app/view.dart';
@@ -10,11 +12,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Navegação entre Telas',
+      title: 'Alugaí',
       theme: ThemeData(
-        primarySwatch: Colors.red,
+        primarySwatch: Colors.green,
       ),
-      home: TelaIni(), // A tela inicial que será exibida primeiro
+      home: TelaInicial(), // A tela inicial que será exibida primeiro
     );
   }
 }
