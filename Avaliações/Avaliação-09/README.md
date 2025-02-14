@@ -1,16 +1,7 @@
-# avaliacao9
+Implementar uma API com a transformação dos dados para jSON.
 
-A new Flutter project.
+Usar como exemplo as API Governamentais em https://www.gov.br/conecta/catalogo/
 
-## Getting Started
+Trabalho em Dupla.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Usar o como referencia o recurso disponibilizado em Recursos 07-Consumindo API no Flutter
